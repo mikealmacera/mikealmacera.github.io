@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Gradescent"
-  pronouns         : "they/them"  
+  pronouns         : #"they/them"  
   bio              : "Computational Linguistics and Math dual degree student."
   location         : "Nevada"
   employer         : "University of Nevada, Reno"
