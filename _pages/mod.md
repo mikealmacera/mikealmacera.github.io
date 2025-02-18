@@ -10,7 +10,7 @@ I also moderate for BSTCHLD, a friend, livestreamer, and shortsmaker who is know
 
 Past Work
 =====
-In the past I have moderated for other content creators, friends, and companies. Examples including Roblox game development groups, YouTubers, cybersecurity companies, and communities for academic/educational resources.
+In the past I have moderated for other content creators, friends, and companies. Examples include Roblox game development groups, YouTubers, cybersecurity companies, and communities for academic/educational resources.
 
 Discord
 =====
