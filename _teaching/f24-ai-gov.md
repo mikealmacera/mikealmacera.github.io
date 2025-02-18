@@ -1,7 +1,7 @@
 ---
-title: "AI Governance"
+title: "AI Safety Fundamentals: Governance"
 collection: teaching
-type: "Undergraduate/Graduate Course"
+type: "Fall Semester"
 permalink: /teaching/f24-ai-gov
 venue: "Carnegie Mellon University"
 date: 2024-09-27
