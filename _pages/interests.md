@@ -8,7 +8,7 @@ Apart from having an attraction to typesetting all my problem sets on LaTeX and 
 
 Coffee
 =====
-Growing up, I got into drinking coffee quite early. I used to spend hours to figure out how to do latte art by pouring cold milk on my drip coffee (this is impossible)...
+Growing up, I got into drinking coffee quite early. I used to spend hours figuring out how to draw latte art by pouring cold milk on my drip coffee (this is impossible)...
 
 Now, I have an espresso machine and small little coffee bar next to my chalkboard and whiteboard. I mainly make americanos as that is what my family is used to. I personally love to make cortados!
 
