@@ -11,14 +11,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
 
   - title: "Interests"
     url: /interests/
 
-  #- title: "Sample"
-  #  url: /sample/
+  - title: "CM Work"
+    url: /mod/
         
   - title: "Blog Posts"
     url: /year-archive/
