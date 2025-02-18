@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This resume is abstracted and several parts are omitted for various reasons. If you are an employer and would like to see my full resume, please send me an email.
+
 Education
 ======
 * B.S. in Computational Linguistics, B.S. in Mathematics, University of Nevada-Reno. 4.0 GPA.
@@ -33,6 +35,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Contact
-=====
-This resume is abstracted and several parts are omitted for various reasons. If you are an employer and would like to see my full resume, please send me an email.
