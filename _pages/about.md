@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Gradescent"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Gradescent (I go by Gradescence in some platforms). I study mathematics, computer science, and linguistics. I am currently interested in how predictions from a modern language model relate to EEG responses during language comprehension.
+My name is Mikeal (\[mikʰeɪɑːl\]). I study mathematics, computer science, and linguistics. I am currently interested in how predictions from a modern language model relate to EEG responses during language comprehension. I also have intersts in various graph theory applications. I am pursuing a dual degree in Mathematics and the new Computational Linguistics program in the University of Nevada-Reno.
 
 Current Whereabouts
 ======
