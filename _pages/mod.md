@@ -14,4 +14,4 @@ In the past I have moderated for other content creators, friends, and companies.
 
 Discord
 =====
-My handle is 'gradescent.' Feel free to add me if you are interested in talking with me. I get a lot of requests and sometimes cannot see them all, so an email to connect would be further appreciated. Do not ask for me to do advertisements.
+I get a lot of requests from bots and the like, sometimes I cannot read them all. So if you would like to connect please email me instead, it would be appreciated. Please do not ask me to do any kind of advertistment.
