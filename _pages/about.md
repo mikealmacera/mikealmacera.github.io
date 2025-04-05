@@ -13,9 +13,11 @@ Current Whereabouts
 ======
 This semester, I am studying operations research, linguistics, real analysis, and neural networks. I frequent events from ACM, IEEE, and the local chess club.
 - I really love chess puzzles! I am currently in the Top 500 worldwide on Chess.com in the Chess Puzzles category. Going for the Top 100!
+- Thanks Jo and Avik from UChicago for organizing the Chicago Symposium on Transformative AI and flying me out to Chicago!
+- Thanks to UNR ACM for allowing me to help organize their hackathon, BLH!
 - I am interested in studying the Quechua language and to be able to speak it.
 - One of my classes, STAT 775 - Linear Algebra and Learning from Data, covers Strang's new book of the same title. I highly recommend reading it!
 
 Last Semester Recap
 =====
-Last year, I took Prof. Daniel Justice's courses on Programming Universal Gate Quantum Computers and Quantum Machine Learning from S3D @ CMU. I also served executive positions in CMU IEEE and CASI.
+Last year, I took Prof. Daniel Justice's courses on Programming Universal Gate Quantum Computers and Quantum Machine Learning from S3D @ CMU. I also served executive positions in CMU IEEE and CASI. I also organized CMU ACM's yearly hackathon, HackCMU!
