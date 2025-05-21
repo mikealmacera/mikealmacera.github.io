@@ -11,13 +11,21 @@ My name is Mikeal (\[ mikʰeɪɑl \]). I am an undergraduate student majoring in
 
 Current Whereabouts
 ======
-This semester, I am studying operations research, linguistics, real analysis, and neural networks. I frequent events from ACM, IEEE, and the local chess club.
-- I really love chess puzzles! I am currently in the Top 500 worldwide on Chess.com in the Chess Puzzles category. Going for the Top 100!
-- Thanks Jo and Avik from UChicago for organizing the Chicago Symposium on Transformative AI and flying me out to Chicago!
-- Thanks to UNR ACM for allowing me to help organize their hackathon, BLH!
-- I am interested in studying the Quechua language and to be able to speak it.
-- One of my classes, STAT 775 - Linear Algebra and Learning from Data, covers Strang's new book of the same title. I highly recommend reading it!
+This summer, I am studying Operating Systems, Data Structures, and Programming Language Pragmatics.
 
-Last Semester Recap
+Currently reading: Programming Language Pragmatics (Scott, Aldrich), Types and Programming Languages (Pierce), Crafting Interpreters (Nystrom). 
+
+Previously
 =====
-Last year, I took Prof. Daniel Justice's courses on Programming Universal Gate Quantum Computers and Quantum Machine Learning from S3D @ CMU. I also served executive positions in CMU IEEE and CASI. I also organized CMU ACM's yearly hackathon, HackCMU!
+Last Semester -- I studied Real Analysis, Operations Research, Deep Learning, and Linguistics.
+- Thanks to Jo and Avik from the X Lab for organizing and flying me out to the Chicago Symposium for Transformative AI!
+- I wrote a paper on the Quechua Language! Will upload here soon.
+- I wrote a paper on Seidel's Algorithm and an introductory lecture on Linear Programming. Will also upload them here soon.
+
+2024 -- I enrolled in CMU, taking intro courses and then Quantum Universal Gate Programming, Quantum Machine Learning, and Software Design.
+- I also took some courses in Mathematical Logic and Computer Networks.
+- I became an executive for the Carnegie AI Safety Initiative and a Committee Chair for CMU IEEE.
+- I was one of the organizers for ACM's HackCMU hackathon.
+- I assisted KAIST with research regarding HCI in online spaces!
+- I studied Software Design and thought about going into HCI.
+- I was one of the organizers for the Google Developer Student Club (GDSC)'s Ideathon.
