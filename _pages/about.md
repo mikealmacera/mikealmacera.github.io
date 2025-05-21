@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mikeal (\[ mikʰeɪɑl \]). I am an undergraduate student majoring in Computational Linguistics and Discrete Math. Currently obssessed with Explainable AI, financial decision-making models, and language acquisition using AI methods. I love to talk about AGI takeoff scenarios and AI Governance. In the past, I taught BlueDot’s course on AI Governance at Carnegie Mellon University. I am currently taking a gap year (although I am still taking courses at UNR.)
+My name is Mikeal (\[ mikʰeɪɑl \]). I am an undergraduate student majoring in Computational Linguistics and Discrete Math. Currently obssessed with Explainable AI, financial decision-making models, and language acquisition using AI methods. I love to talk about AGI takeoff scenarios and AI Governance. In the past, I taught BlueDot’s course on AI Governance at Carnegie Mellon University. I am currently taking a gap year (although I am still taking courses at my hometown university UNR.)
 
 Current Whereabouts
 ======
